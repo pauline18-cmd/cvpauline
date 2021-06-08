@@ -116,5 +116,14 @@ h3{text-align:center;margin:30px 0;color:#444}
 .main-timeline4 .timeline:nth-child(4n) .year:before{border-right-color:#f8781f}
 .main-timeline4 .inner-content{padding:10px}
 }
-.rounded{ background-color: #1ebad0;}
-h1{background-color: #1ebad0 ;}
+h1{ font-style: italic;}
+h1{ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+h2{ background-color: #1ec1d0 ;}
+h2{ color:white;}
+.rounded{ font-size: 25px;}
+.timeline-1{ font-size : 20px;}
+.timeline{ font-size: 20px;}
+.card-text{ font-size: 25px;}
+nav{ font-size: 20px;}
+.btn{ font-size: 25px;}
+.contact{ font-size: 20px;}
